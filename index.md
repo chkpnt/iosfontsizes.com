@@ -4,7 +4,7 @@ layout: base
 
 # iOS Font Sizes
 
-Below are the font and point sizes used by iOS at the default sizing level. You can read more, including about the accessibility curves, on [Apple's documentation](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography).
+Below are the font and point sizes used by iOS at the default sizing level. You can read more, including about the accessibility curves, on [Apple's documentation](https://developer.apple.com/design/human-interface-guidelines/foundations/typography).
 
 | .largeTitle  | **34.0** | SFUI-Regular  | 
 | .title1      | **28.0** | SFUI-Regular  | 
